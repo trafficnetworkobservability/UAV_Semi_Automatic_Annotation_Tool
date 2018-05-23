@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no" ?>
+<!--save the video information-->
+<root>
+    <vehicle_type>
+        <item value="0">car</item>
+        <item value="1">bus</item>
+        <item value="2">truck</item>
+    </vehicle_type>
+    <weather>
+        <item value="0">sunny</item>
+        <item value="1">rainny</item>
+        <item value="2">cloudy</item>
+    </weather>
+    <lane_direction>
+        <item value="0">+</item>
+        <item value="1">-</item>
+    </lane_direction>
+    <lane_type>
+        <item value="0">corridor</item>
+        <item value="1">highway</item>
+    </lane_type>
+	<camera_status>
+        <item value="0">fixed_uav</item>
+        <item value="1">flying_uav</item>
+		<item value="2">fixed_camera</item>
+    </camera_status>
+</root>
