@@ -7,5 +7,5 @@ A semi-automatic annotation tool for UAV traffic video.
     1) Annotate landmark
     2) Annotate road
     3) Annotate vehicle
-    4) Play the video from begin to end
+    4) Play the video from the beginning to the end
     5) Export traffic data
